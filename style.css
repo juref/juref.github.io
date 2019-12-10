@@ -25,7 +25,7 @@ header {
 }
 
 span.Typewriter__cursor {
-    font-size: 15px;
+    font-size: 15p4;
 }
 
 @media screen and (max-width: 630px) {
@@ -159,7 +159,7 @@ a {
     animation: cursor 2s infinite;
     color: rgb(0, 170, 0);
     display: inline-block;
-    width: 10px;
+    width: 6px;
     margin-left: 5px;
     border-radius: 1px;
 }

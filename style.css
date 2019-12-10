@@ -16,19 +16,27 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+header {
+    margin: 40px 0px 60px;
+}
+
 #app {
-  min-height: 400px;
+    min-height: 400px;
+}
+
+span.Typewriter__cursor {
+    font-size: 15px;
 }
 
 @media screen and (max-width: 630px) {
     body {
         padding: 0px 40px;
     }
+    header {
+        margin: 20px 0px 30px;
+    }
 }
 
-header {
-    margin: 40px 0px 60px;
-}
 
 header .site-title a {
     text-decoration: none;

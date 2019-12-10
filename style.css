@@ -25,7 +25,7 @@ header {
 }
 
 span.Typewriter__cursor {
-    font-size: 15p4;
+    font-size: 15px;
 }
 
 @media screen and (max-width: 630px) {

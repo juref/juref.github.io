@@ -25,7 +25,7 @@ typewriter
   .pauseFor(600)
   .typeString(' With excellent knowledge of OS X and Linux systems, networks and hosting')
   .pauseFor(900)
-  .typeString(', and basic knowledge of HTML, CSS, PHP, and JavaScript.')
+  .typeString(', and basic knowledge of Python, JavaScript, PHP, CSS and HTML.')
   .pauseFor(800)
   .typeString('<br />')
   .pauseFor(500)
